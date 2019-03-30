@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<WobCapacityLimits.PawnMassCapacity.Title>Pawns: Mass capacity multiplier</WobCapacityLimits.PawnMassCapacity.Title>
+	<WobCapacityLimits.PawnMassCapacity.Desc>Multiplier used to calculate how much a pawn can carry.\nBody size * this = capacity in kg.\nDefault is 35.</WobCapacityLimits.PawnMassCapacity.Desc>
+
+	<WobCapacityLimits.PodMassCapacity.Title>Transport Pods: Mass capacity</WobCapacityLimits.PodMassCapacity.Title>
+	<WobCapacityLimits.PodMassCapacity.Desc>Maximum mass that each transport pod can hold.\nDefault is 150.</WobCapacityLimits.PodMassCapacity.Desc>
+
+	<WobCapacityLimits.PodFuelPerTile.Title>Transport Pods: Fuel per tile</WobCapacityLimits.PodFuelPerTile.Title>
+	<WobCapacityLimits.PodFuelPerTile.Desc>How much fuel is used per tile travelled.\nDefault is 2.25.</WobCapacityLimits.PodFuelPerTile.Desc>
+
+	<WobCapacityLimits.DebugMode.Title>Debug Mode</WobCapacityLimits.DebugMode.Title>
+	<WobCapacityLimits.DebugMode.Desc>enable verbose logging.</WobCapacityLimits.DebugMode.Desc>
+
+	<WobCapacityLimits.Stack.Meals.Title>Stack Size: Meals</WobCapacityLimits.Stack.Meals.Title>
+	<WobCapacityLimits.Stack.Meals.Desc>Any type of meal.\nStack limit is multiplied by this number.</WobCapacityLimits.Stack.Meals.Desc>
+
+	<WobCapacityLimits.Stack.Food.Title>Stack Size: Food</WobCapacityLimits.Stack.Food.Title>
+	<WobCapacityLimits.Stack.Food.Desc>Raw meats, vegetables, eggs, milk, etc.\nStack limit is multiplied by this number.</WobCapacityLimits.Stack.Food.Desc>
+
+	<WobCapacityLimits.Stack.AnimalFeed.Title>Stack Size: Animal Feed</WobCapacityLimits.Stack.AnimalFeed.Title>
+	<WobCapacityLimits.Stack.AnimalFeed.Desc>Hay, kibble, etc.\nStack limit is multiplied by this number.</WobCapacityLimits.Stack.AnimalFeed.Desc>
+
+	<WobCapacityLimits.Stack.Textiles.Title>Stack Size: Textiles</WobCapacityLimits.Stack.Textiles.Title>
+	<WobCapacityLimits.Stack.Textiles.Desc>Cloths, wools, and leathers.\nStack limit is multiplied by this number.</WobCapacityLimits.Stack.Textiles.Desc>
+
+	<WobCapacityLimits.Stack.Medicine.Title>Stack Size: Medicine</WobCapacityLimits.Stack.Medicine.Title>
+	<WobCapacityLimits.Stack.Medicine.Desc>Medicines and healing kits.\nStack limit is multiplied by this number.</WobCapacityLimits.Stack.Medicine.Desc>
+
+	<WobCapacityLimits.Stack.Drugs.Title>Stack Size: Drugs</WobCapacityLimits.Stack.Drugs.Title>
+	<WobCapacityLimits.Stack.Drugs.Desc>Drugs and beer.\nStack limit is multiplied by this number.</WobCapacityLimits.Stack.Drugs.Desc>
+
+	<WobCapacityLimits.Stack.Manufactured.Title>Stack Size: Manufactured</WobCapacityLimits.Stack.Manufactured.Title>
+	<WobCapacityLimits.Stack.Manufactured.Desc>Components, shells, chemfuel, Neutroamine, etc.\nStack limit is multiplied by this number.</WobCapacityLimits.Stack.Manufactured.Desc>
+
+	<WobCapacityLimits.Stack.Silver.Title>Stack Size: Silver</WobCapacityLimits.Stack.Silver.Title>
+	<WobCapacityLimits.Stack.Silver.Desc>Basic resource, separated because it is used as money.\nStack limit is multiplied by this number.</WobCapacityLimits.Stack.Silver.Desc>
+
+	<WobCapacityLimits.Stack.Resources.Title>Stack Size: Raw Resources</WobCapacityLimits.Stack.Resources.Title>
+	<WobCapacityLimits.Stack.Resources.Desc>Metals, stone blocks, non-food plant matter, etc.\nStack limit is multiplied by this number.</WobCapacityLimits.Stack.Resources.Desc>
+
+	<WobCapacityLimits.Stack.Chunks.Title>Stack Size: Chunks</WobCapacityLimits.Stack.Chunks.Title>
+	<WobCapacityLimits.Stack.Chunks.Desc>Chunks of stone or steel slag\nStack limit is multiplied by this number.</WobCapacityLimits.Stack.Chunks.Desc>
+
+	<WobCapacityLimits.Stack.Artifacts.Title>Stack Size: Artifacts</WobCapacityLimits.Stack.Artifacts.Title>
+	<WobCapacityLimits.Stack.Artifacts.Desc>Psychic lance, soother, etc.\nStack limit is multiplied by this number.</WobCapacityLimits.Stack.Artifacts.Desc>
+
+	<WobCapacityLimits.Stack.BodyParts.Title>Stack Size: Body Parts</WobCapacityLimits.Stack.BodyParts.Title>
+	<WobCapacityLimits.Stack.BodyParts.Desc>Bionic and natural body parts, organs, and implants.\nStack limit is multiplied by this number.</WobCapacityLimits.Stack.BodyParts.Desc>
+
+	<WobCapacityLimits.Stack.Misc.Title>Stack Size: Miscellaneous</WobCapacityLimits.Stack.Misc.Title>
+	<WobCapacityLimits.Stack.Misc.Desc>Horns, tusks, mech serums, and anything else that doesn't fit in any other category.\nStack limit is multiplied by this number.</WobCapacityLimits.Stack.Misc.Desc>
+
+</LanguageData>

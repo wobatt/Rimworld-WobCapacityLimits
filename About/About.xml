@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+<name>Wob Carry Capacity</name>
+<author>Wob</author>
+<targetVersion>1.0.0</targetVersion>
+<description>
+This mod allows you to change the carrying capacity of pawns and transports, as well as maximum stack sizes of most items.
+
+The capacities and stack limits are changed in the mod's settings menu.
+
+&lt;i&gt;Requires HugsLib.&lt;/i&gt;
+
+-----
+
+&lt;b&gt;Pawn Carry Capacity&lt;/b&gt;
+
+Rimworld uses a simple calculation for how much stuff a pawn can carry
+body size  35 = capacity in kg
+
+This mod allows you to change that 35 to any number via the options menu.
+
+Note that this is only for the inventory and caravans - in your base your pawns will still only carry one stack of items.
+
+-----
+
+&lt;b&gt;Transport Pods&lt;/b&gt;
+
+The maximum transportable mass per pod can be edited via the options menu.
+
+The amount of chemfuel a pod consumes per tile traveled can also be edited via the options menu, which will affect the maximum range of pods.
+
+-----
+
+&lt;b&gt;Stack Sizes&lt;/b&gt;
+
+Each category of itemresource has a multiplier in the options menu. Each itemresource definition has its stack limit multiplied by this to get the new stack limit.
+
+The maximum size of stack that a pawn can carry will be automatically set to the new maximum stack size.
+
+-----
+
+&lt;b&gt;Credits&lt;/b&gt;
+
+This mod uses HugsLib and Harmony.
+</description>
+</ModMetaData>
